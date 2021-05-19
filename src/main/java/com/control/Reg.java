@@ -29,7 +29,7 @@ public class Reg {
     @RequestMapping("ts")
     public String tst(Model req){
         req.addAttribute("ss","fff");
-        System.out.println("reg....");
+        System.out.println("reg....666");
         return "/index.jsp";
     }
 

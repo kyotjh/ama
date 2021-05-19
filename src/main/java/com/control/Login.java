@@ -36,4 +36,8 @@ public class Login {
         return js.toString();
     }
 
+    public String lg(){
+        return "";
+    }
+
 }

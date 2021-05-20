@@ -8,7 +8,6 @@
   <component name="ChangeListManager">
     <list default="true" id="904524ec-e313-40b1-80c0-39ca79c11d12" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/control/Reg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/control/Reg.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -393,7 +392,7 @@
       <workItem from="1621297829111" duration="10454000" />
       <workItem from="1621384618691" duration="2488000" />
       <workItem from="1621399939702" duration="692000" />
-      <workItem from="1621469702172" duration="1342000" />
+      <workItem from="1621469702172" duration="1502000" />
     </task>
     <task id="LOCAL-00001" summary="新建的项目提交">
       <created>1621398549970</created>
@@ -423,17 +422,23 @@
       <option name="project" value="LOCAL" />
       <updated>1621399995240</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="新建的项目提交">
+      <created>1621473240984</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1621473240984</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26141000" />
+    <option name="totallyTimeSpent" value="26301000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2647504" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2647504" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
